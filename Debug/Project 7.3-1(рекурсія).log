@@ -1,0 +1,5 @@
+﻿  Project 7.3-1(рекурсія).cpp
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(47): warning C4715: 'Sum2': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(58): warning C4715: 'SearchNegative': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(71): warning C4715: 'Sum': not all control paths return a value
+  Project 7.3-1(рекурсія).vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Debug\Project 7.3-1(рекурсія).exe
