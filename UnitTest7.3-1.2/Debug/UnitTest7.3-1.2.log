@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest7.3-1.2.cpp
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(47): warning C4715: 'Sum2': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(58): warning C4715: 'SearchNegative': not all control paths return a value
+D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Project 7.3-1(рекурсія).cpp(71): warning C4715: 'Sum': not all control paths return a value
+     Creating library D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Debug\UnitTest7.3-1.2.lib and object D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Debug\UnitTest7.3-1.2.exp
+  UnitTest7.3-1.2.vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 7.3-1(рекурсія)\Debug\UnitTest7.3-1.2.dll
